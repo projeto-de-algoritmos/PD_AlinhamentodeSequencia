@@ -1,4 +1,5 @@
 # Hirschberg's Algorithm
+**Número da lista**: 53
 **Conteúdo da Disciplina**: Progamação Dinâmica<br>
 
 ## Alunos

@@ -8,7 +8,7 @@
 
 
 ## Sobre 
-O projeto implementa uma forma visual da solução de espaço linear para o algoritmo de alinhamento de sequências de forma, nele é possivel digitar duas sequências e ver o passo a passo do algoritmo para a realização do alinhamento de sequência, e como resultado final é obtido o custo total para o alinhamento das duas sequências juntamente com o resultado final das duas sequências, com os gaps e mismatchs encontrados. Vale lembrar que o valor padrão para o mismatch é 3 e o valor padrão para o gap é 2, onde quando os caracteres são iguais, há o mismatch, porém com custo 0. É possivel alterar o valor do mistach e o tempo de execução no código fonte do algoritmo, é mostrado a realização disso no video de apresentação, presente na pasta Apresentação do projeto. 
+O projeto implementa uma forma visual da solução de espaço linear para o algoritmo de alinhamento de sequências de forma que nele é possivel digitar duas sequências e ver o passo a passo do algoritmo para a realização do alinhamento de sequência, como resultado final é obtido o custo total para o alinhamento das duas sequências juntamente com o resultado final das duas sequências, com os gaps e mismatchs encontrados. Vale lembrar que o valor padrão para o mismatch é 3 e o valor padrão para o gap é 2, onde quando os caracteres são iguais, há o mismatch, porém com custo 0. É possivel alterar o valor do mistach e o tempo de execução no código fonte do algoritmo, é mostrado a realização disso no video de apresentação, presente na pasta Apresentação do projeto. 
 
 ## Screenshots
 ![1](https://github.com/projeto-de-algoritmos/PD_Hirschberg-s-algorithm/assets/79341819/bb9242dc-1e0f-432b-b5f3-ca4c9358d7ec)

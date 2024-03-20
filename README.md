@@ -1,4 +1,5 @@
-# Hirschberg's Algorithm
+# Alinhamento De Sequencia
+
 **Número da lista**: 53 <br>
 **Conteúdo da Disciplina**: Progamação Dinâmica<br>
 
